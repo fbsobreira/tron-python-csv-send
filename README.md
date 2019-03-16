@@ -1,5 +1,5 @@
 # tron-python-csv-send
-Python tool automate send TRX/Tokens based on a CSV file list
+Python tool to send TRX/Tokens based on a CSV file list
 
 ### Config
 
